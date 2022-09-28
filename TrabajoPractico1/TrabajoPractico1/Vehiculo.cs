@@ -51,7 +51,6 @@ namespace TrabajoPractico1
             Console.WriteLine($"La marca del vehiculo es: {marca}");
             Console.WriteLine($"La patente del vehiculo es: {patente}");
             Console.WriteLine($"El valor del vehiculo es: {valor}");
-
         }
 
     }

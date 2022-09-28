@@ -35,7 +35,7 @@ namespace TrabajoPractico1
         public override void mostrarDatos()
         {
             base.mostrarDatos();
-            Console.WriteLine($"El auto es modelo {modelo}");
+            Console.WriteLine($"El modelo del auto es {modelo}");
             Console.WriteLine($"El color del auto es {color}");
         }
     }
